@@ -3,6 +3,10 @@ def introduce():
 
 def joke():
     print("RUNNNN-NGNGNGNGNGNGNGNGNGNGNG")
+
 def add(a, b):
     c=a+b
     return c 
+
+def shout():
+    print("ZABANOWALEM UZYTKOWNIKA TEHACE, NIGDY NIE MIALEM LEPSZEGO BRZUCHA")
